@@ -39,12 +39,13 @@
   <a href="https://leetcode.com/profile/account/">
     <img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-facc15?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
+</p> 
+
+<!-- Animated divider (neon snake) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-<!-- Neon Divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:38bdf8,50:22d3ee,100:38bdf8" width="65%" />
-</p>
 
 ## 🧠 Languages & Tools
 
