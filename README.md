@@ -36,10 +36,11 @@
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/profile/account/">
-    <img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-facc15?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <a href="https://www.hackerrank.com/profile/smbala1210">
+    <img src="https://img.shields.io/badge/HackerRank-Problem%20Solver-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
-</p> 
+</p>
+
 
 <!-- Animated divider (neon snake) -->
 <p align="center">
